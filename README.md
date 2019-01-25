@@ -1,1 +1,1 @@
-# Backwards-Super-Mario-Bros.-U
+# Backwards Super Mario Bros. U
