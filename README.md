@@ -14,6 +14,7 @@ When it completely finished the game will contain :
 
 - All levels modified to make it possible backwards. Some levels will be more modified than others, it depends of the level !
 - Time limits for almost all levels reduced for more challenge.
+- No checkpoint flags.
 - (Planned) Mid-bosses, Koopalings, Bowser Jr. fights, final boss more harder
 - (Planned) Custom levels/World names and dialogues boxes.
 
