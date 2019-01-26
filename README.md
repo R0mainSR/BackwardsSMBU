@@ -43,7 +43,7 @@ A : It will be hard to explain in writing. Search tutorials on YouTube/Google fo
 
 **Q : I founded a bug or I have an idea...**
 
-A : You can go [here](https://github.com/R0-main/Backwards-Super-Mario-Bros.-U/issues) to report bugs or request features.
+A : You can go [here](https://github.com/R0-main/Backwards-Super-Mario-Bros.-U/issues) to report bugs or request features/suggestions.
 
 **Q : Can I contact you ?**
 
