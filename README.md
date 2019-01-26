@@ -17,6 +17,11 @@ When it completely finished the game will contain :
 - (Planned) Mid-bosses, Koopalings, Bowser Jr. fights, final boss more harder
 - (Planned) Custom levels/World names and dialogues boxes.
 
+## Tools used on this hack
+
+ - Level edition : [Miyamoto v26.0](https://github.com/aboood40091/Miyamoto/releases) by AboodXD
+ - Text edition : [Kuriimu](https://github.com/IcySon55/Kuriimu/releases) by IcySon55
+
 ## FAQ
 
 **Q : When the first version is released, the full game can be played ?**
