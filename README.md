@@ -19,7 +19,7 @@ When it completely finished the game will contain :
 
 ## FAQ
 
-**Q : When it release, the full game can be played ?**
+**Q : When the first version is released, the full game can be played ?**
 
 A : No, When the first version cames out, only the levels to beat the game in the fastest way can be played (for a total of 22 levels), so some exits will be blocked until new levels are done backwards. But on each update, more levels are added to the hack, so keep an eye to this project ! (You can watch the hack on GitHub to recieve notifications when a new update is ready)
 
