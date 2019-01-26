@@ -42,3 +42,7 @@ A : You can go [here](https://github.com/R0-main/Backwards-Super-Mario-Bros.-U/i
 **Q : Can I contact you ?**
 
 A : Sure yes, If you have questions about this hack you can send me a DM or a friend request on Discord. My username is Romain#0001
+
+**Q : Have you planned to do the same with an other game on the nsmb series ?**
+
+A : At this time, I have no plans to do the same thing with another games on the series. But maybe one day if I have the motivation.
