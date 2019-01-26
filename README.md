@@ -2,7 +2,7 @@
 
 ## Introduction
 
-*Backwards Super Mario Bros. U* is a "full" modification of *New Super Mario Bros. U*, I got this idea from Nathaniel Bandy's videos about *New Super Luigi U Backwards* on his *Backwards series* so I was thinking "Why not doing the same thing for nsmbu ?". By the way the mod *NSLU Backwards* was done by MayroSMM so I got the inspiration from these both cool peoples!
+*Backwards Super Mario Bros. U* is a "full" modification of *New Super Mario Bros. U*, I got this idea from [Nathaniel Bandy](https://www.youtube.com/channel/UCRwczJ_nk1t9IGHyHfHbXRQ)'s videos about *New Super Luigi U Backwards* on his *Backwards series* so I was thinking "Why not doing the same thing for nsmbu ?". By the way the mod *NSLU Backwards* was done by [MayroSMM](https://www.youtube.com/channel/UCumgUoIV9t2aGtaQXmwXIAg) so I got the inspiration from these both cool peoples!
 
 ## Concept
 
