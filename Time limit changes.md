@@ -18,9 +18,9 @@
 
 **5-Tower** : *500* -> *30*
 
-**5-Ghost (Secret Exit)** : *600* -> *200*
+**5-Ghost (Secret Exit)** : *600* -> *100*
 
-**5-Secret** : *300* -> *100*
+**5-Secret** : *300* -> *70*
 
 ## W7 - Meringue Clouds
 
@@ -32,7 +32,7 @@
 
 **7-Tower** : *500* -> *250*
 
-**7-Ghost (Secret Exit)** : *400* -> *200* 
+**7-Ghost (Secret Exit)** : *400* -> *100* 
 
 **7-Castle** : *500* -> *300* 
 
