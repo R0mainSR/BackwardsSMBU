@@ -6,6 +6,7 @@
 - Time limits are reduced for more challenge.
 - Added some acorns boxes to make some levels possible backwards.
 - Removed checkpoints.
+- Reduced time limit for levels. [See Here](https://github.com/R0-main/Backwards-Super-Mario-Bros.-U/blob/master/Time%20limit%20changes.md)
 - Removed the moving platform clouds on 7-1, replaced by solid blocks.
 - Added solid blocks on 7-3 on some places to make it possible backwards, even if the player don't have Acorn.
 - Added solid blocks for wall-jumping on on some areas on 5-Ghost and 7-Ghost to make it possible backwards.
