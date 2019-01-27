@@ -98,7 +98,7 @@
 
 ## World 9 : Superstar Road (0%) 
 
-*To play on levels on this world, I recommend to play from a 100% file done on the original game because this hack is impossible to complete to 100% from a new file.*
+*To play levels on this world, I recommend to play from a 100% file done on the original game because this hack is impossible to complete to 100% from a new file.*
 
 - 9-1 : **Not started yet**
 - 9-2 : **Not started yet**
