@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1 (01/29/2019)
+
+- Fixed a message on Staff roll (Change the message "R0main" to "Romain" because the "0" is a "&" for the game.)
+- Replaced the "Ver. 1.3.0" at the bottom right of the Title screen by the actual version of the hack (Ver. 1.1).
+- Added the logo of the hack to the title screen (If you have a better suggestion for the logo I take it !)
+
 ## v1.0 - Initial Release (Date : 01/28/2019)
 
 - 22 levels modified backwards. These levels are the levels to beat the game in the fastest way. (1-1, 1-2, 1-Secret, 5-1, 5-2, 5-3, 5-Tower, 5-Ghost, 5-Secret, 7-1, 7-2, 7-3, 7-Tower, 7-Ghost, 7-Castle, 7-Airship, 8-1, 8-2, 8-3, 8-4, 8-Castle 1, 8-Castle 2).
