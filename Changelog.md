@@ -1,10 +1,10 @@
 # Changelog
 
-## v1.0 - Initial Release (Date : TBD)
+## v1.0 - Initial Release (Date : 01/28/2019)
 
 - 22 levels modified backwards. These levels are the levels to beat the game in the fastest way. (1-1, 1-2, 1-Secret, 5-1, 5-2, 5-3, 5-Tower, 5-Ghost, 5-Secret, 7-1, 7-2, 7-3, 7-Tower, 7-Ghost, 7-Castle, 7-Airship, 8-1, 8-2, 8-3, 8-4, 8-Castle 1, 8-Castle 2).
 - Time limits are reduced for more challenge.
-- Added some acorns boxes to make some levels possible backwards.
+- Added acorns boxes to make some levels possible backwards.
 - Removed checkpoints.
 - Reduced time limit for levels. [See Here](https://github.com/R0-main/Backwards-Super-Mario-Bros.-U/blob/master/Time%20limit%20changes.md)
 - Removed the moving platform clouds on 7-1, replaced by solid blocks.
