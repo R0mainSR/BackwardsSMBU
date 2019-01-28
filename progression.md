@@ -2,13 +2,13 @@
 
 ## World 1 : Acorn Plains (35%)
 
-- 1-1 : **Finished**
-- 1-2 : **Finished (SE only)**
+- 1-1 : **Released**
+- 1-2 : **Released (SE only)**
 - 1-Tower : **Not started yet**
 - 1-4 : **Not started yet**
 - 1-5 : **Not started yet**
 - 1-Castle : **Not started yet**
-- 1-Secret : **Finished**
+- 1-Secret : **Released**
 
 ## World 2 : Layer-Cake Desert (0%)
 
@@ -49,17 +49,17 @@
 ## World 5 : Soda Jungle (45%)
 
 - 5-Airship : **Not started yet**
-- 5-1 : **Finished**
-- 5-2 : **Finished**
-- 5-3 : **Finished**
-- 5-Tower : **Finished**
-- 5-Ghost : **Finished (SE only)**
+- 5-1 : **Released**
+- 5-2 : **Released**
+- 5-3 : **Released**
+- 5-Tower : **Released**
+- 5-Ghost : **Released (SE only)**
 - 5-4 : **Not started yet**
 - 5-5 : **Not started yet**
 - 5-6 : **Not started yet**
 - 5-7 : **Not started yet**
 - 5-Castle : **Not started yet**
-- 5-Secret : **Finished**
+- 5-Secret : **Released**
 
 ## World 6 : Rock-Candy Mines (0%)
 
@@ -76,25 +76,25 @@
 
 ## World 7 : Meringue Clouds (65%)
 
-- 7-1 : **Finished**
-- 7-2 : **Finished**
-- 7-3 : **Finished**
-- 7-Tower : **Finished**
-- 7-Ghost : **Finished (SE only)**
+- 7-1 : **Released**
+- 7-2 : **Released**
+- 7-3 : **Released**
+- 7-Tower : **Released**
+- 7-Ghost : **Released (SE only)**
 - 7-4 : **Not started yet** 
 - 7-5 : **Not started yet** 
 - 7-6 : **Not started yet**
-- 7-Castle : **Finished**
-- 7-Airship : **Finished**
+- 7-Castle : **Released**
+- 7-Airship : **Released**
 
 ## World 8 : Peach's Castle (100%)
 
-- 8-1 : **Finished**
-- 8-2 : **Finished**
-- 8-3 : **Finished**
-- 8-4 : **Finished**
-- 8-Castle 1 : **Finished**
-- 8-Castle 2 : **Finished**
+- 8-1 : **Released**
+- 8-2 : **Released**
+- 8-3 : **Released**
+- 8-4 : **Released**
+- 8-Castle 1 : **Released**
+- 8-Castle 2 : **Released**
 
 ## World 9 : Superstar Road (0%) 
 
