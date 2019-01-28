@@ -13,3 +13,4 @@
 - Added solid blocks on the second (first backwards) part of 7-Airship to make this section possible backwards without the motion controls platform. (Maybe it will be updated on the future).
 - Removed the autoscroller on 5-Secret, 7-Airship and 8-4.
 - Blocked the access to 1-2, 5-Ghost and 7-Ghost Regular Exit until other levels are done backwards.
+- Added custom Staff Credits & Toad dialogue boxes (after 5-1 from a new file)
