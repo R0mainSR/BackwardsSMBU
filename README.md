@@ -41,7 +41,7 @@ A : Wii U only. If you want to play this hack, you must have a Wii U with a *New
 
 **Q : How to play this hack ?**
 
-A : It will be hard to explain in writing. Search tutorials on YouTube/Google for how to play nsmbu hacks on your Wii U or on emulator.
+A : Since v1.1, I puted a readme.txt with setup guides for emulator and console. Read it.
 
 **Q : I founded a bug or I have an idea...**
 
