@@ -4,7 +4,7 @@
 
 - 1-1 : **Released**
 - 1-2 : **Released (SE only)** / **Normal Exit Finished**
-- 1-Tower : **Not started yet**
+- 1-Tower : **Finished**
 - 1-3 : **Finished**
 - 1-4 : **Finished**
 - 1-5 : **Finished**
@@ -113,4 +113,4 @@
 
 -------------------------------------
 
-# Total levels finished : 22/82 (27%)
+# Total levels finished : 27/82 (32%)
