@@ -1,5 +1,7 @@
 # Progression of Backwards SMBU
 
+*Note about "Finished" and "Released" : "Finished" says the level is ready for release but not released yet, and "Released" says the level is in the lastest release.*
+
 ## World 1 : Acorn Plains (100%)
 
 - 1-1 : **Released**
@@ -113,4 +115,4 @@
 
 -------------------------------------
 
-# Total levels finished : 27/82 (32%)
+# Total levels finished : 27/82 (32%) (22/82 released - 26%)
