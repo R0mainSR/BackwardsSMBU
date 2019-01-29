@@ -43,6 +43,10 @@ A : Wii U only. If you want to play this hack, you must have a Wii U with a *New
 
 A : Since v1.1, I puted a readme.txt with setup guides for emulator and console. Read it.
 
+**Q : The game crashes on loading.**
+
+A : If the game crashes on loading, it seems you use an old version of nsmbu (1.0.0, 1.1.0, 1.2.0). If you want to play on these versions, delete a folder named "layout" and reload the hack, the vanilla logo will show up but the hack will work perfectly. If you are on 1.3.0 you don't need to do that.
+
 **Q : I founded a bug or I have an idea...**
 
 A : You can go [here](https://github.com/R0-main/Backwards-Super-Mario-Bros.-U/issues) to report bugs or request features/suggestions.
