@@ -1,13 +1,14 @@
 # Progression of Backwards SMBU
 
-## World 1 : Acorn Plains (35%)
+## World 1 : Acorn Plains (100%)
 
 - 1-1 : **Released**
-- 1-2 : **Released (SE only)**
+- 1-2 : **Released (SE only)** / **Normal Exit Finished**
 - 1-Tower : **Not started yet**
-- 1-4 : **Not started yet**
-- 1-5 : **Not started yet**
-- 1-Castle : **Not started yet**
+- 1-3 : **Finished**
+- 1-4 : **Finished**
+- 1-5 : **Finished**
+- 1-Castle : **Finished**
 - 1-Secret : **Released**
 
 ## World 2 : Layer-Cake Desert (0%)
@@ -112,4 +113,4 @@
 
 -------------------------------------
 
-# Total levels finished : 22/81 (27%)
+# Total levels finished : 22/82 (27%)
