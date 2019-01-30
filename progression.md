@@ -2,6 +2,8 @@
 
 *Note about "Finished" and "Released" : "Finished" says the level is ready for release but not released yet, and "Released" says the level is in the lastest release.*
 
+*SE = Secret Exit*
+
 ## World 1 : Acorn Plains (100%)
 
 - 1-1 : **Released**
@@ -13,17 +15,17 @@
 - 1-Castle : **Finished**
 - 1-Secret : **Released**
 
-## World 2 : Layer-Cake Desert (0%)
+## World 2 : Layer-Cake Desert (100%)
 
-- 2-1 : **Not started yet**
-- 2-2 : **Not started yet**
-- 2-3 : **Not started yet**
-- 2-Tower : **Not started yet**
-- 2-4 : **Not started yet**
-- 2-5 : **Not started yet**
-- 2-6 : **Not started yet**
-- 2-Castle : **Not started yet**
-- 2-Secret : **Not started yet**
+- 2-1 : **Finished**
+- 2-2 : **Finished**
+- 2-3 : **Finished**
+- 2-Tower : **Finished**
+- 2-4 : **Finished**
+- 2-5 : **Finished**
+- 2-6 : **Finished**
+- 2-Castle : **Finished (SE to avoid entering W3 & 4 from a new file)**
+- 2-Secret : **Finished**
 
 ## World 3 : Sparkling Waters (0%)
 
@@ -115,4 +117,4 @@
 
 -------------------------------------
 
-# Total levels finished : 27/82 (32%) (22/82 released - 26%)
+# Total levels finished : 36/82 (43%) (22/82 released - 26%)
