@@ -1,6 +1,6 @@
 # Progression of Backwards SMBU
 
-*Note about "Finished" and "Released" : "Finished" says the level is ready for release but not released yet, and "Released" says the level is in the lastest release.*
+*Note about "Finished" and "Released" : "Finished" says the level is ready for release but not released yet, and "Released" says the level is in the latest release.*
 
 *SE = Secret Exit*
 
