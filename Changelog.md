@@ -1,5 +1,19 @@
 # Changelog
 
+## v2.0 (02/04/2019)
+
+- 14 new levels done backwards. Worlds 1 and 2 are now complete ! (New levels : 1-Tower, 1-3, 1-4, 1-5, 1-Castle, 2-1, 2-2, 2-3, 2-Tower, 2-4, 2-5, 2-6, 2-Castle, 2-Secret). For this version, there are now a total of 36 levels playable. [See the levels released here](https://github.com/R0-main/Backwards-Super-Mario-Bros.-U/blob/master/progression.md)
+- Unloked the access to 1-2 Regular Exit
+- Reduced a gear on 1-Tower to make this level possible backwards.
+- Removed a lot of stuff at the end of 1-2, replaced by solid blocks to make the level more easily backwards.
+- Changed the location of some screws on 2-Tower to make this level possible backwards.
+- For this version, 2-Castle have a Secret Exit before the boss fight to avoid entering W3 and 4 from a new file. It will be removed for the v3.0 when W3 and 4 will be done.
+- Removed checkpoints.
+- Reduced time limits. [See here](https://github.com/R0-main/Backwards-Super-Mario-Bros.-U/blob/master/Time%20limit%20changes.md)
+- Added acorns boxes to make some areas possible backwards.
+- Added decorative things on 2-Secret. See by yourself 😛 
+- Replaced all vanilla  "?" blocks content by Acorns on 2-Castle. (only visible blocks with power-ups)
+
 ## v1.1 (01/29/2019)
 
 - Fixed a message on Staff roll (Change the message "R0main" to "Romain" because the "0" is a "&" for the game.)
