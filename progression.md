@@ -7,24 +7,24 @@
 ## World 1 : Acorn Plains (100%)
 
 - 1-1 : **Released**
-- 1-2 : **Released (SE only)** / **Normal Exit Finished**
-- 1-Tower : **Finished**
-- 1-3 : **Finished**
-- 1-4 : **Finished**
-- 1-5 : **Finished**
-- 1-Castle : **Finished**
+- 1-2 : **Released**
+- 1-Tower : **Released**
+- 1-3 : **Released**
+- 1-4 : **Released**
+- 1-5 : **Released**
+- 1-Castle : **Released**
 - 1-Secret : **Released**
 
 ## World 2 : Layer-Cake Desert (100%)
 
-- 2-1 : **Finished**
-- 2-2 : **Finished**
-- 2-3 : **Finished**
-- 2-Tower : **Finished**
-- 2-4 : **Finished**
-- 2-5 : **Finished**
-- 2-6 : **Finished**
-- 2-Castle : **Finished (SE to avoid entering W3 & 4 from a new file)**
+- 2-1 : **Released**
+- 2-2 : **Released**
+- 2-3 : **Released**
+- 2-Tower : **Released**
+- 2-4 : **Released**
+- 2-5 : **Released**
+- 2-6 : **Released**
+- 2-Castle : **Released (SE to avoid entering W3 & 4 from a new file)**
 - 2-Secret : **Finished**
 
 ## World 3 : Sparkling Waters (0%)
@@ -117,4 +117,4 @@
 
 -------------------------------------
 
-# Total levels finished : 36/82 (43%) (22/82 released - 26%)
+# Total levels finished : 36/82 (43%) (36/82 released - 43%)
