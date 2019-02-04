@@ -25,7 +25,7 @@
 - 2-5 : **Released**
 - 2-6 : **Released**
 - 2-Castle : **Released (SE to avoid entering W3 & 4 from a new file)**
-- 2-Secret : **Finished**
+- 2-Secret : **Released**
 
 ## World 3 : Sparkling Waters (0%)
 
