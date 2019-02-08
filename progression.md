@@ -27,17 +27,17 @@
 - 2-Castle : **Released (SE to avoid entering W3 & 4 from a new file)**
 - 2-Secret : **Released**
 
-## World 3 : Sparkling Waters (0%)
+## World 3 : Sparkling Waters (100%)
 
-- 3-1 : **Not started yet**
-- 3-2 : **Not started yet**
-- 3-Tower : **Not started yet**
-- 3-Ghost : **Not started yet**
-- 3-3 : **Not started yet**
-- 3-4 : **Not started yet**
-- 3-5 : **Not started yet**
-- 3-Castle : **Not started yet**
-- 3-Secret : **Not started yet**
+- 3-1 : **Finished**
+- 3-2 : **Finished**
+- 3-Tower : **Finished**
+- 3-Ghost : **Finished**
+- 3-3 : **Finished**
+- 3-4 : **Finished**
+- 3-5 : **Finished**
+- 3-Castle : **Finished**
+- 3-Secret : **Finished**
 
 ## World 4 : Frosted Glacier (0%)
 
@@ -117,4 +117,4 @@
 
 -------------------------------------
 
-# Total levels finished : 36/82 (43%) (36/82 released - 43%)
+# Total levels finished : 45/82 (54%) (36/82 released - 43%)
