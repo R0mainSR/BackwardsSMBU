@@ -1,5 +1,17 @@
 # Changelog
 
+## v3.0 (02/25/2019)
+
+- 19 new levels done backwards. Worlds 3 and 4 are now complete ! (New levels : 3-1, 3-2, 3-Tower, 3-Ghost, 3-3, 3-4, 3-5, 3-Castle, 3-Secret, 4-1, 4-2, 4-Tower, 4-3, 4-4, 4-5, 4-Ghost, 4-Castle, 4-Secret, 5-Airship). For this version, there are now a total of 55 levels playable. [See the levels released here](https://github.com/R0-main/Backwards-Super-Mario-Bros.-U/blob/master/progression.md)
+- Removed the Secret Exit of 2-Castle. You can now access to the Morton fight.
+- Removed scrolling of 4-Ghost, 3-Secret and 5-Airship.
+- 4-Ghost is a little bit glitchy without the scroller but **both exits** are **beatable**.
+- Added an hidden block with a star at the pipe on 3-5 to make the beginning of the level more easier.
+- Removed checkpoints.
+- Reduced time limits. [See here](https://github.com/R0-main/Backwards-Super-Mario-Bros.-U/blob/master/Time%20limit%20changes.md)
+- Added acorns boxes to make some areas possible backwards.
+- 3-Secret and 4-Secret have a Secret Exit to avoid entering W6 from a new file. It will be replaced by a Normal exit once W6 is complete.
+
 ## v2.0 (02/04/2019)
 
 - 14 new levels done backwards. Worlds 1 and 2 are now complete ! (New levels : 1-Tower, 1-3, 1-4, 1-5, 1-Castle, 2-1, 2-2, 2-3, 2-Tower, 2-4, 2-5, 2-6, 2-Castle, 2-Secret). For this version, there are now a total of 36 levels playable. [See the levels released here](https://github.com/R0-main/Backwards-Super-Mario-Bros.-U/blob/master/progression.md)
