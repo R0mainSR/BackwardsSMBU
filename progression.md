@@ -39,21 +39,21 @@
 - 3-Castle : **Finished**
 - 3-Secret : **Finished**
 
-## World 4 : Frosted Glacier (0%)
+## World 4 : Frosted Glacier (100%)
 
-- 4-1 : **Not started yet**
-- 4-2 : **Not started yet**
-- 4-Tower : **Not started yet**
-- 4-3 : **Not started yet**
-- 4-4 : **Not started yet**
-- 4-5 : **Not started yet**
-- 4-Ghost : **Not started yet**
-- 4-Castle : **Not started yet**
-- 4-Secret : **Not started yet**
+- 4-1 : **Finished**
+- 4-2 : **Finished**
+- 4-Tower : **Finished**
+- 4-3 : **Finished**
+- 4-4 : **Finished**
+- 4-5 : **Finished**
+- 4-Ghost : **Finished**
+- 4-Castle : **Finished**
+- 4-Secret : **Finished**
 
-## World 5 : Soda Jungle (45%)
+## World 5 : Soda Jungle (58%)
 
-- 5-Airship : **Not started yet**
+- 5-Airship : **Finished**
 - 5-1 : **Released**
 - 5-2 : **Released**
 - 5-3 : **Released**
@@ -117,4 +117,4 @@
 
 -------------------------------------
 
-# Total levels finished : 45/82 (54%) (36/82 released - 43%)
+# Total levels finished : 55/82 (67%) (36/82 released - 43%)
