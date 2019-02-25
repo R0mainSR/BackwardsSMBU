@@ -24,36 +24,36 @@
 - 2-4 : **Released**
 - 2-5 : **Released**
 - 2-6 : **Released**
-- 2-Castle : **Released (SE to avoid entering W3 & 4 from a new file)**
+- 2-Castle : **Released**
 - 2-Secret : **Released**
 
 ## World 3 : Sparkling Waters (100%)
 
-- 3-1 : **Finished**
-- 3-2 : **Finished**
-- 3-Tower : **Finished**
-- 3-Ghost : **Finished**
-- 3-3 : **Finished**
-- 3-4 : **Finished**
-- 3-5 : **Finished**
-- 3-Castle : **Finished**
-- 3-Secret : **Finished**
+- 3-1 : **Released**
+- 3-2 : **Released**
+- 3-Tower : **Released**
+- 3-Ghost : **Released**
+- 3-3 : **Released**
+- 3-4 : **Released**
+- 3-5 : **Released**
+- 3-Castle : **Released**
+- 3-Secret : **Released**
 
 ## World 4 : Frosted Glacier (100%)
 
-- 4-1 : **Finished**
-- 4-2 : **Finished**
-- 4-Tower : **Finished**
-- 4-3 : **Finished**
-- 4-4 : **Finished**
-- 4-5 : **Finished**
-- 4-Ghost : **Finished**
-- 4-Castle : **Finished**
-- 4-Secret : **Finished**
+- 4-1 : **Released**
+- 4-2 : **Released**
+- 4-Tower : **Released**
+- 4-3 : **Released**
+- 4-4 : **Released**
+- 4-5 : **Released**
+- 4-Ghost : **Released**
+- 4-Castle : **Released**
+- 4-Secret : **Released**
 
 ## World 5 : Soda Jungle (58%)
 
-- 5-Airship : **Finished**
+- 5-Airship : **Released**
 - 5-1 : **Released**
 - 5-2 : **Released**
 - 5-3 : **Released**
@@ -117,4 +117,4 @@
 
 -------------------------------------
 
-# Total levels finished : 55/82 (67%) (36/82 released - 43%)
+# Total levels finished : 55/82 (67%) (55/82 released - 67%)
