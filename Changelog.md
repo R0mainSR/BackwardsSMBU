@@ -1,5 +1,12 @@
 # Changelog
 
+## v3.1 (03/01/2019)
+
+- For the beginning of 2-2 a Pokey is near to Mario and go automaticly to him and you can take damage. This is fixed ! The Pokey goes now to the left (instead of "To player") without causing more problems to the player.
+- In 2-2 again, on the dark section with Pokeys and bats, I added 2 platforms to reach the pipe at the end more easily (You can go in the pipe without these platforms but you need to do a perfect dumb wall jump to reach the pipe)
+- Fixed an arrow signboard in the second section of 5-Airship. The signboard says now left instead of right
+- Same for an arrow signboard in 7-Airship
+
 ## v3.0 (02/25/2019)
 
 - 19 new levels done backwards. Worlds 3 and 4 are now complete ! (New levels : 3-1, 3-2, 3-Tower, 3-Ghost, 3-3, 3-4, 3-5, 3-Castle, 3-Secret, 4-1, 4-2, 4-Tower, 4-3, 4-4, 4-5, 4-Ghost, 4-Castle, 4-Secret, 5-Airship). For this version, there are now a total of 55 levels playable. [See the levels released here](https://github.com/R0-main/Backwards-Super-Mario-Bros.-U/blob/master/progression.md)
