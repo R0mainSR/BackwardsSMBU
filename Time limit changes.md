@@ -1,4 +1,4 @@
-# Time limit changes for levels in Backwards SMBU (from begining)
+# Time limit changes for levels in Backwards SMBU
 
 ## W1 - Acorn Plains
 
