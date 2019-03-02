@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for this hack
-title: "[Request]"
-labels: enhancement
+title: ''
+labels: Feature Request / Suggestion
 assignees: R0-main
 
 ---
