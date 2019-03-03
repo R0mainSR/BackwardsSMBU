@@ -51,7 +51,7 @@
 - 4-Castle : **Released**
 - 4-Secret : **Released**
 
-## World 5 : Soda Jungle (58%)
+## World 5 : Soda Jungle (100%)
 
 - 5-Airship : **Released**
 - 5-1 : **Released**
