@@ -59,11 +59,11 @@
 - 5-3 : **Released**
 - 5-Tower : **Released**
 - 5-Ghost : **Released (SE only)**
-- 5-4 : **Not started yet**
-- 5-5 : **Not started yet**
-- 5-6 : **Not started yet**
-- 5-7 : **Not started yet**
-- 5-Castle : **Not started yet**
+- 5-4 : **Finished**
+- 5-5 : **Finished**
+- 5-6 : **Finished**
+- 5-7 : **Finished**
+- 5-Castle : **Finished**
 - 5-Secret : **Released**
 
 ## World 6 : Rock-Candy Mines (0%)
@@ -117,4 +117,4 @@
 
 -------------------------------------
 
-# Total levels finished : 55/82 (67%) (55/82 released - 67%)
+# Total levels finished : 60/82 (73%) (55/82 released - 67%)
